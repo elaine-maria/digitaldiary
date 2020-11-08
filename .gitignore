@@ -2,3 +2,4 @@
 .idea/
 digitaldiary.iml
 target/
+resources/application.yaml
